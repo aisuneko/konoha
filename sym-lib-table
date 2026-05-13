@@ -1,6 +1,8 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "CH634X_C48985831")(type "KiCad")(uri "${KIPRJMOD}/symbol/CH634X_C48985831.kicad_sym")(options "")(descr ""))
-  (lib (name "CH213K")(type "KiCad")(uri "${KIPRJMOD}/symbol/CH213K.kicad_sym")(options "")(descr ""))
-  (lib (name "CH217K")(type "KiCad")(uri "${KIPRJMOD}/symbol/CH217K.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "CH634X_C48985831") (type "KiCad") (uri "${KIPRJMOD}/symbol/CH634X_C48985831.kicad_sym") (options "") (descr ""))
+	(lib (name "CH213K") (type "KiCad") (uri "${KIPRJMOD}/symbol/CH213K.kicad_sym") (options "") (descr ""))
+	(lib (name "CH217K") (type "KiCad") (uri "${KIPRJMOD}/symbol/CH217K.kicad_sym") (options "") (descr ""))
+	(lib (name "HD3SS3220RNH") (type "KiCad") (uri "${KIPRJMOD}/symbol/HD3SS3220RNH.kicad_sym") (options "") (descr ""))
+	(lib (name "WS3202E61-6TR") (type "KiCad") (uri "${KIPRJMOD}/symbol/WS3202E61-6TR.kicad_sym") (options "") (descr ""))
 )

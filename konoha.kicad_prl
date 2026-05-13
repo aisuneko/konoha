@@ -51,10 +51,11 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_82020577",
-    "zone_display_mode": 0
+    "visible_layers": "00000000_00000000_00000000_00000065",
+    "zone_display_mode": 1
   },
   "git": {
+    "integration_disabled": false,
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
@@ -93,18 +94,18 @@
       11
     ],
     "col_widths": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      67,
+      66,
+      91,
+      73,
+      80,
+      94,
+      83,
+      78,
+      40,
+      43,
+      55,
+      210
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

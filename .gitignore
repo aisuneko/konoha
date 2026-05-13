@@ -2,3 +2,9 @@ dfm/
 production/
 .history/
 konoha-backups/
+temp-KiPNG/
+*.net
+*.dsn
+*.bak
+fp-info-cache
+artifacts/
