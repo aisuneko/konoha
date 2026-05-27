@@ -115,6 +115,8 @@
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "missing_tuning_profile": "warning",
+        "net_chain_return_path": "error",
+        "net_chain_stub_length": "error",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "ignore",
@@ -579,6 +581,7 @@
     "meta": {
       "version": 5
     },
+    "net_chain_classes": {},
     "net_colors": null,
     "netclass_assignments": null,
     "netclass_patterns": [
@@ -785,7 +788,7 @@
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
-      "version": 0
+      "version": 1
     },
     "tuning_profiles_impedance_geometric": []
   }
